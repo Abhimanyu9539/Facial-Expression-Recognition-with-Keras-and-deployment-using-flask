@@ -5,4 +5,4 @@ Facial Expression Recognition with Keras and deployment using flume
 - Deploy the trained model to a web interface with Flask
 - Apply the model to real-time video streams and image data
 
-# Applied to Videos and can be used on recorded videos also.
+### Applied to Real time videos and can also be used on recorded videos.
